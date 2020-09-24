@@ -1,0 +1,13 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\bin\Debug\netcoreapp3.1\playlistDb.deps.json
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\bin\Debug\netcoreapp3.1\playlistDb.runtimeconfig.json
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\bin\Debug\netcoreapp3.1\playlistDb.runtimeconfig.dev.json
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\bin\Debug\netcoreapp3.1\playlistDb.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\bin\Debug\netcoreapp3.1\playlistDb.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.AssemblyInfoInputs.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.AssemblyInfo.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.csproj.CoreCompileInputs.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\playlist\playlistDb\obj\Debug\netcoreapp3.1\playlistDb.genruntimeconfig.cache
