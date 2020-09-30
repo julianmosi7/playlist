@@ -1,0 +1,8 @@
+@hostname = localhost
+@port = 5000
+@url = http://{{hostname}}:{{port}}
+@playlists = {{url}}/values/playlists
+@tracksforplaylist = {{url}}/values/
+@playlistId = 5
+
+GET {{playlists}} HTTP/1.1

@@ -1,0 +1,14 @@
+@hostname = localhost
+@port = 5000
+@url = http://{{hostname}}:{{port}}
+
+GET {{url}}/values/PlaylistTracks/6 HTTP/1.1
+####
+
+POST {{url}}/values HTTP/1.1
+Content-Type: application/json
+
+{
+    "playlistId": 1,
+    "trackId": 1
+}

@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using playlist.Services;
 using playlistDb;
 
 namespace playlist
@@ -28,6 +29,8 @@ namespace playlist
 
     public void ConfigureServices(IServiceCollection services)
     {
+      services.AddScoped<playlistContext>();
+      services.AddScoped<ValuesService>();
       var builder = new SqliteConnectionStringBuilder(@"Data Source=../../../../playlistDb/chinook.db"); //use relative path here as I don't know how to "Copy always" with dotnet CLI
       var location = System.Reflection.Assembly.GetEntryAssembly().Location;
       string dataDirectory = System.IO.Path.GetDirectoryName(location);
